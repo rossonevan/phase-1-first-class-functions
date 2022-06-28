@@ -17,7 +17,7 @@ describe("index", () => {
     var fn;
 
     before(() => {
-      fn = returnsANamedFunction();
+      fn = returnsANamedFuntion();
     });
 
     it("returns a function", () => {
